@@ -24,7 +24,7 @@ A series of seminars from some of the current leading experts in **Nonparametric
 
 ## Location
 
-Seminars to be held in *Sala Costas Goutis* 10.0.23 (Getafe) at 13:00. 
+Seminars to be held in *Sala Costas Goutis* 10.0.23 (Getafe) at 13:00. It is located at the ground floor of building 10 (*Campomanes*). The exact coordinates are given in the map below.
 
 <style>
     #map {
@@ -109,4 +109,4 @@ Seminars to be held in *Sala Costas Goutis* 10.0.23 (Getafe) at 13:00.
 
 ## Contact
 
-In case of doubts you may contact <edgarcia@est-econ.uc3m.es>.
+In case of questions you may contact <edgarcia@est-econ.uc3m.es>.
