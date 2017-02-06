@@ -1,2 +1,14 @@
+title: Nonparametrics March at UC3M
+email: edgarcia@est-econ.uc3m.es
+description: > # this means to ignore newlines until "baseurl:"
+  A series of seminars from some of the current leading experts in 
+  **Nonparametric Statistics**, held in the 
+  [Department of Statistics](http://portal.uc3m.es/portal/page/portal/dpto_estadistica/home) 
+  of [Carlos III University of Madrid](http://www.uc3m.es).
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://egarpor.github.io/nonparamarch" # the base hostname & protocol for your site
+github_username:  egarpor
+
+# Build settings
+markdown: kramdown
 theme: minima
-show_downloads: false
