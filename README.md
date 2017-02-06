@@ -101,12 +101,12 @@ Seminars to be held in *Sala Costas Goutis* 10.0.23 (Getafe) at 13:00. It is loc
 
 ## Scientific comittee
 
-[Raúl Jiménez Recaredo](http://portal.uc3m.es/portal/page/portal/dpto_estadistica/personal/raul_jimenez), [Marc Hallin](http://ecares.ulb.ac.be/index.php?option=com_comprofiler&task=userProfile&user=114&Itemid=263) and [Antonio Cuevas](https://www.uam.es/personal_pdi/ciencias/acuevas/).
+[Marc Hallin](http://ecares.ulb.ac.be/index.php?option=com_comprofiler&task=userProfile&user=114&Itemid=263), [Antonio Cuevas](https://www.uam.es/personal_pdi/ciencias/acuevas/) and [Daniel Peña](http://halweb.uc3m.es/daniel_pena/).
 
 ## Organizing comittee
 
-[Raúl Jiménez Recaredo](http://portal.uc3m.es/portal/page/portal/dpto_estadistica/personal/raul_jimenez) and [Eduardo García Portugués](https://egarpor.github.io).
+[Eduardo García Portugués](https://egarpor.github.io), [Raúl Jiménez Recaredo](http://halweb.uc3m.es/rjjimene) and [Susana Linares](mailto:slinares@pa.uc3m.es).
 
 ## Contact
 
-In case of questions you may contact <edgarcia@est-econ.uc3m.es>.
+In case of questions you may contact <slinares@pa.uc3m.es> (preferably) or <edgarcia@est-econ.uc3m.es>.
