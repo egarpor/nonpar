@@ -1,9 +1,9 @@
-## Overview
+## Scope
 
 A series of seminars from some of the current leading experts in **Nonparametric Statistics**, held in the [Department of Statistics](http://portal.uc3m.es/portal/page/portal/dpto_estadistica/home) of [Carlos III University of Madrid](http://www.uc3m.es).
 
 <center>
-<img style="width:70%;" id="March UC3M" src="https://raw.githubusercontent.com/egarpor/nonparamarch/master/images/march2.jpg?token=ABNl9quGFSC6xeZ2IWvx7i3ylQnjP08rks5YoevwwA%3D%3D">
+<img style="width:80%;" id="March UC3M" src="https://raw.githubusercontent.com/egarpor/nonparamarch/master/images/march2.jpg?token=ABNl9quGFSC6xeZ2IWvx7i3ylQnjP08rks5YoevwwA%3D%3D">
 <br>
 
 <i>The Department of Statistics at UC3M (Getafe)</i>
@@ -18,7 +18,7 @@ A series of seminars from some of the current leading experts in **Nonparametric
 [Jacobo de Uña](http://jacobo.webs.uvigo.es/) | <img style="width:70px;" id="Jacobo de Uña" src="https://raw.githubusercontent.com/egarpor/nonparamarch/master/images/jacobo.jpg?token=ABNl9iQ31oz4wZYdojbe2r2rnSdDQ-6Iks5YodDQwA%3D%3D"> | Universidad de Vigo | Friday 10th | TBA |
 [Javier Cárcamo](http://www.uam.es/personal_pdi/ciencias/jcarcamo/) | <img style="width:70px;" id="Javier Cárcamo" src="https://raw.githubusercontent.com/egarpor/nonparamarch/master/images/javier.jpg?token=ABNl9ms7gDJBVWvzgPFQ2wpH10TuOIvYks5YodDywA%3D%3D"> | Universidad Autónoma de Madrid | Wednesday 15th | TBA |
 [Siegfried Hörmann](http://homepages.ulb.ac.be/~shormann/) | <img style="width:70px;" id="Siegfried Hörmann" src="https://raw.githubusercontent.com/egarpor/nonparamarch/master/images/siegfried.png?token=ABNl9tqb4iYp14dUU3SCTTwhuw9rpdaIks5YodLEwA%3D%3D"> | Université libre de Bruxelles | Friday 17th | TBA |
-[TBA](tba) | TBA | TBA | TBA | TBA |
+[TBA](tba) | TBA | TBA | Wednesday 22th | TBA |
 [Ricardo Fraiman](http://www.cmat.edu.uy/cmat/docentes/rfraiman) | <img style="width:70px;" id="Ricardo Fraiman" src="https://raw.githubusercontent.com/egarpor/nonparamarch/master/images/ricardo.jpeg?token=ABNl9t3dabPN9_9ZZjmh9tIAliugHtDnks5YodE5wA%3D%3D"> | Universidad de la República | Friday 24th | TBA |
 
 ## Location
