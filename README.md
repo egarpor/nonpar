@@ -4,7 +4,7 @@ A series of seminars from some of the current leading experts in **Nonparametric
 
 <center>
 <img style="width:70%;" id="March UC3M" src="https://raw.githubusercontent.com/egarpor/nonparamarch/master/images/march2.jpg?token=ABNl9quGFSC6xeZ2IWvx7i3ylQnjP08rks5YoevwwA%3D%3D">
-
+<br>
 <i>The Department of Statistics at UC3M (Getafe)</i>
 </center>
 
