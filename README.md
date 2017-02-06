@@ -1,15 +1,14 @@
-Nonparametrics March at UC3M
-============================
-
-<center>
-<img style="width:70%;" id="March UC3M" src="https://raw.githubusercontent.com/egarpor/nonparamarch/master/images/march2.jpg?token=ABNl9quGFSC6xeZ2IWvx7i3ylQnjP08rks5YoevwwA%3D%3D">
-</center>
-
-### Overview
+## Overview
 
 A series of seminars from some of the current leading experts in **Nonparametric Statistics**, held in the [Department of Statistics](http://portal.uc3m.es/portal/page/portal/dpto_estadistica/home) of [Carlos III University of Madrid](http://www.uc3m.es).
 
-### Speakers
+<center>
+<img style="width:70%;" id="March UC3M" src="https://raw.githubusercontent.com/egarpor/nonparamarch/master/images/march2.jpg?token=ABNl9quGFSC6xeZ2IWvx7i3ylQnjP08rks5YoevwwA%3D%3D">
+
+*The Department of Statistics at UC3M (Getafe)*
+</center>
+
+## Speakers
 
 | Speaker | Looks like? | Affiliation | Date | Topic |
 |:-------:|:-----------:|:-----------:|:----:|:-----:|
@@ -21,14 +20,14 @@ A series of seminars from some of the current leading experts in **Nonparametric
 [TBA](tba) | TBA | TBA | TBA | TBA |
 [Ricardo Fraiman](http://www.cmat.edu.uy/cmat/docentes/rfraiman) | <img style="width:70px;" id="Ricardo Fraiman" src="https://raw.githubusercontent.com/egarpor/nonparamarch/master/images/ricardo.jpeg?token=ABNl9t3dabPN9_9ZZjmh9tIAliugHtDnks5YodE5wA%3D%3D"> | Universidad de la República | Friday 24th | TBA |
 
-### Location
+## Location
 
 Seminars to be held in *Sala Costas Goutis* 10.0.23 (Getafe) at 13:00. 
 
 <style>
     #map {
         width: 90%;
-        height: 500px;
+        height: 400px;
     }
 </style>
 
@@ -96,16 +95,16 @@ Seminars to be held in *Sala Costas Goutis* 10.0.23 (Getafe) at 13:00.
 
 <div id="map">
 </div>
+<br>
 
-
-### Scientific comittee
+## Scientific comittee
 
 [Raúl Jiménez Recaredo](http://portal.uc3m.es/portal/page/portal/dpto_estadistica/personal/raul_jimenez), [Marc Hallin](http://ecares.ulb.ac.be/index.php?option=com_comprofiler&task=userProfile&user=114&Itemid=263) and [Antonio Cuevas](https://www.uam.es/personal_pdi/ciencias/acuevas/).
 
-### Organizing comittee
+## Organizing comittee
 
 [Raúl Jiménez Recaredo](http://portal.uc3m.es/portal/page/portal/dpto_estadistica/personal/raul_jimenez) and [Eduardo García Portugués](https://egarpor.github.io).
 
-### Contact
+## Contact
 
 In case of doubts you may contact <edgarcia@est-econ.uc3m.es>.
