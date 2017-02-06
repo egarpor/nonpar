@@ -22,9 +22,8 @@ A series of seminars from some of the top leading experts in Nonparametric Stati
 Seminars to be held in *Sala Costas Goutis* 10.0.23 (Getafe) at 13:00. 
 
 <style>
-    /* Set a size for our map container, the Google Map will take up 100% of this container */
     #map {
-        width: 90%;/*750px;*/
+        width: 90%;
         height: 500px;
     }
 </style>
