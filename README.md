@@ -1,9 +1,13 @@
 Nonparametrics March at UC3M
 ============================
 
+<center>
+<img style="width:70%;" id="March UC3M" src="https://raw.githubusercontent.com/egarpor/nonparamarch/master/images/march2.jpg?token=ABNl9quGFSC6xeZ2IWvx7i3ylQnjP08rks5YoevwwA%3D%3D">
+</center>
+
 ### Overview
 
-A series of seminars from some of the top leading experts in Nonparametric Statistics, held in the [Department of Statistics](http://portal.uc3m.es/portal/page/portal/dpto_estadistica/home) of [Carlos III University of Madrid](http://www.uc3m.es).
+A series of seminars from some of the current leading experts in **Nonparametric Statistics**, held in the [Department of Statistics](http://portal.uc3m.es/portal/page/portal/dpto_estadistica/home) of [Carlos III University of Madrid](http://www.uc3m.es).
 
 ### Speakers
 
