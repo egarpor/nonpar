@@ -99,13 +99,10 @@ Seminars to be held in *Sala Costas Goutis* 10.0.23 (Getafe) at 13:00. It is loc
 </div>
 <br>
 
-## Scientific comittee
+## Organization
 
-[Marc Hallin](http://ecares.ulb.ac.be/index.php?option=com_comprofiler&task=userProfile&user=114&Itemid=263), [Antonio Cuevas](https://www.uam.es/personal_pdi/ciencias/acuevas/) and [Daniel Peña](http://halweb.uc3m.es/daniel_pena/).
-
-## Organizing comittee
-
-[Eduardo García Portugués](https://egarpor.github.io), [Raúl Jiménez Recaredo](http://halweb.uc3m.es/rjjimene) and [Susana Linares](mailto:slinares@pa.uc3m.es).
+- Scientific comittee: Marc Hallin, Antonio Cuevas and Daniel Peña.
+- Organizing comittee: Eduardo García Portugués, Raúl Jiménez Recaredo and Susana Linares.
 
 ## Contact
 
