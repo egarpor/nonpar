@@ -1,3 +1,10 @@
+---
+layout: default
+title: First Nonparametric UC3M Workshop
+css: index
+js: index
+---
+
 <center>
 <a href="http://www.uc3m.es/">
 	<img style="width:100%;" id="UC3M" src="https://raw.githubusercontent.com/egarpor/nonparamarch/master/images/uc3m_stats.jpg?token=ABNl9mZbUIFJU46pgw3tycPh6znAMulEks5YoxwkwA%3D%3D">
