@@ -101,7 +101,7 @@ Seminars to be held in *Sala Costas Goutis* 10.0.23 (Getafe) at 13:00. It is loc
 
 ## Organization
 
-- Scientific comittee: Marc Hallin, Antonio Cuevas and Daniel Peña.
+- Scientific comittee: Antonio Cuevas, Marc Hallin, and Daniel Peña.
 - Organizing comittee: Eduardo García Portugués, Raúl Jiménez Recaredo and Susana Linares.
 
 ## Contact
