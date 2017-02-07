@@ -1,3 +1,9 @@
+<center>
+<a href="http://www.uc3m.es/">
+	<img style="width:100%;" id="UC3M" src="https://raw.githubusercontent.com/egarpor/nonparamarch/master/images/uc3m_stats.jpg?token=ABNl9mZbUIFJU46pgw3tycPh6znAMulEks5YoxwkwA%3D%3D">
+</a>
+</center>
+
 ## Scope
 
 Conferences and discussions with some of the current leading experts in **Nonparametric Statistics**, held in the [Department of Statistics](http://portal.uc3m.es/portal/page/portal/dpto_estadistica/home) of [Carlos III University of Madrid](http://www.uc3m.es).
