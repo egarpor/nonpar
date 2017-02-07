@@ -1,6 +1,6 @@
 ## Scope
 
-A series of seminars from some of the current leading experts in **Nonparametric Statistics**, held in the [Department of Statistics](http://portal.uc3m.es/portal/page/portal/dpto_estadistica/home) of [Carlos III University of Madrid](http://www.uc3m.es).
+Conferences and discussions with some of the current leading experts in **Nonparametric Statistics**, held in the [Department of Statistics](http://portal.uc3m.es/portal/page/portal/dpto_estadistica/home) of [Carlos III University of Madrid](http://www.uc3m.es).
 
 <center>
 <img style="width:100%;" id="March UC3M" src="https://raw.githubusercontent.com/egarpor/nonparamarch/master/images/march2.jpg?token=ABNl9quGFSC6xeZ2IWvx7i3ylQnjP08rks5YoevwwA%3D%3D">
@@ -106,4 +106,4 @@ Seminars to be held in *Sala Costas Goutis* 10.0.23 (Getafe) at 13:00. It is loc
 
 ## Contact
 
-In case of questions you may contact <slinares@pa.uc3m.es> (preferably) or <edgarcia@est-econ.uc3m.es>.
+In case of questions you may contact <slinares@pa.uc3m.es> or <edgarcia@est-econ.uc3m.es>.
