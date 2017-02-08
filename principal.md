@@ -7,7 +7,7 @@ js: index
 
 <center>
 <a href="http://www.uc3m.es/">
-	<img style="width:100%;" id="UC3M" src="https://raw.githubusercontent.com/egarpor/nonparamarch/master/images/uc3m_stats.jpg?token=ABNl9mZbUIFJU46pgw3tycPh6znAMulEks5YoxwkwA%3D%3D">
+	<img style="width:100%;" id="UC3M" src="images/uc3m_stats.jpg">
 </a>
 </center>
 
@@ -16,7 +16,7 @@ js: index
 Conferences and discussions with some of the current leading experts in **Nonparametric Statistics**, held in the [Department of Statistics](http://portal.uc3m.es/portal/page/portal/dpto_estadistica/home) of [Carlos III University of Madrid](http://www.uc3m.es). 
 
 <center>
-<img style="width:100%;" id="March UC3M" src="https://raw.githubusercontent.com/egarpor/nonparamarch/master/images/march2.jpg?token=ABNl9quGFSC6xeZ2IWvx7i3ylQnjP08rks5YoevwwA%3D%3D">
+<img style="width:100%;" id="March UC3M" src="images/march2.jpg">
 <br>
 
 <i>The Department of Statistics at UC3M (Getafe)</i>
@@ -25,15 +25,15 @@ Conferences and discussions with some of the current leading experts in **Nonpar
 
 ## Speakers
 
-| Speaker | Looks like? | Affiliation | Date | Topic |
-|:-------:|:-----------:|:-----------:|:----:|:-----:|
-| [Davide La Vecchia](http://unige.ch/gsem/rcs/members2/profs/d/) | <img style="width:70px;" id="Davide La Vecchia" src="https://raw.githubusercontent.com/egarpor/nonparamarch/master/images/davide.png?token=ABNl9s2JNrjiz1cT7sNKjYr9S2nvX1KHks5YodK0wA%3D%3D"> | Université of Genéve (Switzerland) | Friday 3rd | TBA |
-[Thomas Verdebout](http://tverdebo.ulb.ac.be/) | <img style="width:70px;" id="Thomas Verdebout" src="https://raw.githubusercontent.com/egarpor/nonparamarch/master/images/thomas.jpg?token=ABNl9okfqwO-7vv4oI_hIO8ZX5noF1woks5YodFRwA%3D%3D"> | Université libre de Bruxelles (Belgium) | Wednesday 8th | TBA |
-[Jacobo de Uña](http://jacobo.webs.uvigo.es/) | <img style="width:70px;" id="Jacobo de Uña" src="https://raw.githubusercontent.com/egarpor/nonparamarch/master/images/jacobo.jpg?token=ABNl9iQ31oz4wZYdojbe2r2rnSdDQ-6Iks5YodDQwA%3D%3D"> | Universidad de Vigo (Spain) | Friday 10th | TBA |
-[Javier Cárcamo](http://www.uam.es/personal_pdi/ciencias/jcarcamo/) | <img style="width:70px;" id="Javier Cárcamo" src="https://raw.githubusercontent.com/egarpor/nonparamarch/master/images/javier.jpg?token=ABNl9ms7gDJBVWvzgPFQ2wpH10TuOIvYks5YodDywA%3D%3D"> | Universidad Autónoma de Madrid (Spain) | Wednesday 15th | TBA |
-[Siegfried Hörmann](http://homepages.ulb.ac.be/~shormann/) | <img style="width:70px;" id="Siegfried Hörmann" src="https://raw.githubusercontent.com/egarpor/nonparamarch/master/images/siegfried.png?token=ABNl9tqb4iYp14dUU3SCTTwhuw9rpdaIks5YodLEwA%3D%3D"> | Université libre de Bruxelles (Belgium) | Friday 17th | TBA |
-[Eustasio del Barrio](http://www.eio.uva.es/infor/personas/tasio.html) | <img style="width:70px;" id="Eustasio del Barrio" src="https://raw.githubusercontent.com/egarpor/nonparamarch/master/images/tasio.jpg?token=ABNl9veyKJLbdBNL3GXnSAikMmm89davks5Yoi4xwA%3D%3D"> | Universidad de Valladolid (Spain) | Wednesday 22th | TBA |
-[Ricardo Fraiman](http://www.cmat.edu.uy/cmat/docentes/rfraiman) | <img style="width:70px;" id="Ricardo Fraiman" src="https://raw.githubusercontent.com/egarpor/nonparamarch/master/images/ricardo.jpeg?token=ABNl9t3dabPN9_9ZZjmh9tIAliugHtDnks5YodE5wA%3D%3D"> | Universidad de la República (Argentina) | Friday 24th | TBA |
+| Speaker | Affiliation | Date | Topic |
+|:-------:|:-----------:|:----:|:-----:|
+| <img style="width:70px;" id="Davide La Vecchia" src="images/davide.png"><br>[Davide La Vecchia](http://unige.ch/gsem/rcs/members2/profs/d/) | Université of Genéve (Switzerland) | Friday 3rd | TBA |
+| <img style="width:70px;" id="Thomas Verdebout" src="images/thomas.jpg"><br>[Thomas Verdebout](http://tverdebo.ulb.ac.be/) | Université libre de Bruxelles (Belgium) | Wednesday 8th | TBA |
+<img style="width:70px;" id="Jacobo de Uña" src="images/jacobo.png"><br>[Jacobo de Uña](http://jacobo.webs.uvigo.es/) | Universidad de Vigo (Spain) | Friday 10th | TBA |
+| <img style="width:70px;" id="Javier Cárcamo" src="images/javier.png"><br>[Javier Cárcamo](http://www.uam.es/personal_pdi/ciencias/jcarcamo/) | Universidad Autónoma de Madrid (Spain) | Wednesday 15th | TBA |
+| <img style="width:70px;" id="Siegfried Hörmann" src="images/siegfried.png"><br>[Siegfried Hörmann](http://homepages.ulb.ac.be/~shormann/) | Université libre de Bruxelles (Belgium) | Friday 17th | TBA |
+<img style="width:70px;" id="Eustasio del Barrio" src="images/tasio.jpg"><br>[Eustasio del Barrio](http://www.eio.uva.es/infor/personas/tasio.html) | Universidad de Valladolid (Spain) | Wednesday 22th | TBA |
+<img style="width:70px;" id="Ricardo Fraiman" src="images/ricardo.jpeg"><br>[Ricardo Fraiman](http://www.cmat.edu.uy/cmat/docentes/rfraiman) | Universidad de la República (Argentina) | Friday 24th | TBA |
 
 ## Location
 
@@ -114,7 +114,7 @@ Seminars to be held in *Sala Costas Goutis* 10.0.23 (Getafe) at **13:00**. The i
 
 ## Registration
 
-Assistance is free and no registration is required.
+No prior registration is required. Attendance is free of charge. 
 
 ## Organization
 
@@ -123,4 +123,4 @@ Assistance is free and no registration is required.
 
 ## Contact
 
-In case of questions you may contact <slinares@pa.uc3m.es> or <edgarcia@est-econ.uc3m.es>.
+In case of questions you may contact <edgarcia@est-econ.uc3m.es>.
