@@ -5,6 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://egarpor.github.io/nonparamarch" # the base hostname & protocol for your site
 github_username: egarpor
+favicon: images/favicon.ico
 
 # Build settings
 markdown: kramdown
