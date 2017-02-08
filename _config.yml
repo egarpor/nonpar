@@ -3,7 +3,7 @@ email: edgarcia@est-econ.uc3m.es
 description: > # this means to ignore newlines until "baseurl:"
   A workshop based on monographic seminars in Nonparametric Statistics held in the Department of Statistics of the Carlos III University of Madrid.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://egarpor.github.io/nonparamarch" # the base hostname & protocol for your site
+url: "http://egarpor.github.io/nonpar" # the base hostname & protocol for your site
 github_username: egarpor
 favicon: images/favicon.ico
 

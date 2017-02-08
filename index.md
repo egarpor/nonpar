@@ -1,8 +1,6 @@
 ---
 layout: default
 title: First Nonparametric UC3M Workshop
-css: index
-js: index
 ---
 
 <center>
@@ -46,7 +44,7 @@ Seminars to be held in *Sala Costas Goutis* 10.0.23 (Getafe) at **13:00**. The i
     }
 </style>
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAWD32Ge3oaMcGn4HwR0eGkxi-CDaUR1vc&sensor=false" type="text/javascript">
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAz_4NqV0U73b9QilPvJ8VshloQbIXzSTg&amp;sensor=false" type="text/javascript">
 </script>
 <script type="text/javascript">
 
