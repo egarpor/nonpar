@@ -25,13 +25,13 @@ Conferences and discussions with some of the current leading experts in **Nonpar
 
 | Speaker | Affiliation | Date | Topic |
 |:-------:|:-----------:|:----:|:-----:|
-| <img style="width:70px;" id="Davide La Vecchia" src="images/davide.png"><br>[Davide La Vecchia](http://unige.ch/gsem/rcs/members2/profs/d/) | Université of Genéve (Switzerland) | Friday 3rd | TBA |
+| <img style="width:70px;" id="Davide La Vecchia" src="images/davide.png"><br>[Davide La Vecchia](http://unige.ch/gsem/rcs/members2/profs/d/) | Université of Genéve (Switzerland) | Friday 3rd | Saddlepoint approximations in the frequency domain |
 | <img style="width:70px;" id="Thomas Verdebout" src="images/thomas.jpg"><br>[Thomas Verdebout](http://tverdebo.ulb.ac.be/) | Université libre de Bruxelles (Belgium) | Wednesday 8th | TBA |
-<img style="width:70px;" id="Jacobo de Uña" src="images/jacobo.png"><br>[Jacobo de Uña](http://jacobo.webs.uvigo.es/) | Universidad de Vigo (Spain) | Friday 10th | TBA |
-| <img style="width:70px;" id="Javier Cárcamo" src="images/javier.png"><br>[Javier Cárcamo](http://www.uam.es/personal_pdi/ciencias/jcarcamo/) | Universidad Autónoma de Madrid (Spain) | Wednesday 15th | TBA |
+<img style="width:70px;" id="Jacobo de Uña" src="images/jacobo.png"><br>[Jacobo de Uña](http://jacobo.webs.uvigo.es/) | Universidad de Vigo (Spain) | Friday 10th | Copula-graphic estimation with left-truncated and right-censored data |
+| <img style="width:70px;" id="Javier Cárcamo" src="images/javier.png"><br>[Javier Cárcamo](http://www.uam.es/personal_pdi/ciencias/jcarcamo/) | Universidad Autónoma de Madrid (Spain) | Wednesday 15th | New classification features for X-ray astronomy data |
 | <img style="width:70px;" id="Siegfried Hörmann" src="images/siegfried.png"><br>[Siegfried Hörmann](http://homepages.ulb.ac.be/~shormann/) | Université libre de Bruxelles (Belgium) | Friday 17th | TBA |
 <img style="width:70px;" id="Eustasio del Barrio" src="images/tasio.jpg"><br>[Eustasio del Barrio](http://www.eio.uva.es/infor/personas/tasio.html) | Universidad de Valladolid (Spain) | Wednesday 22th | TBA |
-<img style="width:70px;" id="Ricardo Fraiman" src="images/ricardo.jpeg"><br>[Ricardo Fraiman](http://www.cmat.edu.uy/cmat/docentes/rfraiman) | Universidad de la República (Argentina) | Friday 24th | TBA |
+<img style="width:70px;" id="Ricardo Fraiman" src="images/ricardo.jpeg"><br>[Ricardo Fraiman](http://www.cmat.edu.uy/cmat/docentes/rfraiman) | Universidad de la República (Argentina) | Friday 24th | Some statistical models in ecology: home range, core areas and more |
 
 ## Location
 
