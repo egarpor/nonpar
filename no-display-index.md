@@ -119,6 +119,17 @@ No prior registration is required. Attendance is free of charge.
 - Scientific comittee: Antonio Cuevas, Marc Hallin, and Daniel Peña.
 - Organizing comittee: Eduardo García Portugués, Raúl Jiménez Recaredo (chair) and Susana Linares (secretary).
 
+## Funding
+
+The workshop is funded and supported by:
+
+- [UC3M-BS Institute of Financial Big Data](http://portal.uc3m.es/portal/page/portal/ifibid/home)
+- [Spanish Society of Statistics and Operations Research (SEIO)](http://www.seio.es/)
+- [School of Law and Social Sciences, Carlos III University of Madrid](http://www.uc3m.es/ss/Satellite/UC3MInstitucional/en/TextoMixta/1371206568086/School_of_Law_and_Social_Sciences)
+- [Department of Statistics, Carlos III University of Madrid](http://portal.uc3m.es/portal/page/portal/dpto_estadistica)
+- [Carlos III University of Madrid](http://www.uc3m.es/)
+
+
 ## Contact
 
 In case of questions you may contact <edgarcia@est-econ.uc3m.es>.
