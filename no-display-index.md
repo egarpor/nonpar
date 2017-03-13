@@ -31,7 +31,7 @@ Conferences and discussions with some of the current leading experts in **Nonpar
 | <img style="width:70px;" id="Javier Cárcamo" src="images/javier.png"><br>[Javier Cárcamo](http://www.uam.es/personal_pdi/ciencias/jcarcamo/) | Universidad Autónoma de Madrid (Spain) | Wednesday 15th | New classification features for X-ray astronomy data |
 | <img style="width:70px;" id="Siegfried Hörmann" src="images/siegfried.png"><br>[Siegfried Hörmann](http://homepages.ulb.ac.be/~shormann/) | Université libre de Bruxelles (Belgium) | Friday 17th | Detection of periodicity in functional time series |
 <img style="width:70px;" id="Eustasio del Barrio" src="images/tasio.jpg"><br>[Eustasio del Barrio](http://www.eio.uva.es/infor/personas/tasio.html) | Universidad de Valladolid (Spain) | Wednesday 22th | Robust clustering tools based on optimal transportation |
-<img style="width:70px;" id="Ricardo Fraiman" src="images/ricardo.jpeg"><br>[Ricardo Fraiman](http://www.cmat.edu.uy/cmat/docentes/rfraiman) | Universidad de la República (Argentina) | Friday 24th | Some statistical models in ecology: home range, core areas and more |
+<img style="width:70px;" id="Ricardo Fraiman" src="images/ricardo.jpeg"><br>[Ricardo Fraiman](http://www.cmat.edu.uy/cmat/docentes/rfraiman) | Universidad de la República (Uruguay) | Friday 24th | Some statistical models in ecology: home range, core areas and more |
 
 ## Location
 
