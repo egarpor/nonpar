@@ -11,7 +11,7 @@ title: First Nonparametric UC3M Workshop
 
 ## Scope
 
-Conferences and discussions with some of the current leading experts in **Nonparametric Statistics**, held in the [Department of Statistics](http://portal.uc3m.es/portal/page/portal/dpto_estadistica/home) of [Carlos III University of Madrid](http://www.uc3m.es). 
+Conferences and discussions with some of the current leading experts in **Nonparametric Statistics**, held in the [Department of Statistics](http://www.uc3m.es/statistics) of [Carlos III University of Madrid](http://www.uc3m.es). 
 
 <center>
 <img style="width:100%;" id="March UC3M" src="images/march2.jpg">
