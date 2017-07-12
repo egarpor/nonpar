@@ -11,7 +11,7 @@ title: First Nonparametric UC3M Workshop
 
 ## Scope
 
-Conferences and discussions with some of the current leading experts in **Nonparametric Statistics**, held in the [Department of Statistics](http://www.uc3m.es/statistics) of [Carlos III University of Madrid](http://www.uc3m.es). 
+Conferences and discussions with some of the current leading experts in **Nonparametric Statistics**, held in the [Department of Statistics](http://www.uc3m.es/statistics) of [Carlos III University of Madrid](http://www.uc3m.es) in **March 2017**. 
 
 <center>
 <img style="width:100%;" id="March UC3M" src="images/march2.jpg">
@@ -25,13 +25,13 @@ Conferences and discussions with some of the current leading experts in **Nonpar
 
 | Speaker | Affiliation | Date | Topic |
 |:-------:|:-----------:|:----:|:-----:|
-| <img style="width:70px;" id="Davide La Vecchia" src="images/davide.png"><br>[Davide La Vecchia](http://unige.ch/gsem/rcs/members2/profs/d/) | Université of Genéve (Switzerland) | Friday 3rd | Saddlepoint approximations in the frequency domain |
-| <img style="width:70px;" id="Thomas Verdebout" src="images/thomas.jpg"><br>[Thomas Verdebout](http://tverdebo.ulb.ac.be/) | Université libre de Bruxelles (Belgium) | Wednesday 8th | Inference on the mode of weak directional signals: a Le Cam perspective on hypothesis testing near singularities |
-<img style="width:70px;" id="Jacobo de Uña" src="images/jacobo.png"><br>[Jacobo de Uña](http://jacobo.webs.uvigo.es/) | Universidad de Vigo (Spain) | Friday 10th | Copula-graphic estimation with left-truncated and right-censored data |
-| <img style="width:70px;" id="Javier Cárcamo" src="images/javier.png"><br>[Javier Cárcamo](http://www.uam.es/personal_pdi/ciencias/jcarcamo/) | Universidad Autónoma de Madrid (Spain) | Wednesday 15th | New classification features for X-ray astronomy data |
-| <img style="width:70px;" id="Siegfried Hörmann" src="images/siegfried.png"><br>[Siegfried Hörmann](http://homepages.ulb.ac.be/~shormann/) | Université libre de Bruxelles (Belgium) | Friday 17th | Detection of periodicity in functional time series |
-<img style="width:70px;" id="Eustasio del Barrio" src="images/tasio.jpg"><br>[Eustasio del Barrio](http://www.eio.uva.es/infor/personas/tasio.html) | Universidad de Valladolid (Spain) | Wednesday 22th | Robust clustering tools based on optimal transportation |
-<img style="width:70px;" id="Ricardo Fraiman" src="images/ricardo.jpeg"><br>[Ricardo Fraiman](http://www.cmat.edu.uy/cmat/docentes/rfraiman) | Universidad de la República (Uruguay) | Friday 24th | Some statistical models in ecology: home range, core areas and more |
+| <img style="width:70px;" id="Davide La Vecchia" src="images/davide.png"><br>[Davide La Vecchia](http://unige.ch/gsem/rcs/members2/profs/d/) | Université of Genéve (Switzerland) | Friday 3rd, March 2017 | Saddlepoint approximations in the frequency domain |
+| <img style="width:70px;" id="Thomas Verdebout" src="images/thomas.jpg"><br>[Thomas Verdebout](http://tverdebo.ulb.ac.be/) | Université libre de Bruxelles (Belgium) | Wednesday 8th, March 2017 | Inference on the mode of weak directional signals: a Le Cam perspective on hypothesis testing near singularities |
+<img style="width:70px;" id="Jacobo de Uña" src="images/jacobo.png"><br>[Jacobo de Uña](http://jacobo.webs.uvigo.es/) | Universidad de Vigo (Spain) | Friday 10th, March 2017 | Copula-graphic estimation with left-truncated and right-censored data |
+| <img style="width:70px;" id="Javier Cárcamo" src="images/javier.png"><br>[Javier Cárcamo](http://www.uam.es/personal_pdi/ciencias/jcarcamo/) | Universidad Autónoma de Madrid (Spain) | Wednesday 15th, March 2017 | New classification features for X-ray astronomy data |
+| <img style="width:70px;" id="Siegfried Hörmann" src="images/siegfried.png"><br>[Siegfried Hörmann](http://homepages.ulb.ac.be/~shormann/) | Université libre de Bruxelles (Belgium) | Friday 17th, March 2017 | Detection of periodicity in functional time series |
+<img style="width:70px;" id="Eustasio del Barrio" src="images/tasio.jpg"><br>[Eustasio del Barrio](http://www.eio.uva.es/infor/personas/tasio.html) | Universidad de Valladolid (Spain) | Wednesday 22th, March 2017 | Robust clustering tools based on optimal transportation |
+<img style="width:70px;" id="Ricardo Fraiman" src="images/ricardo.jpeg"><br>[Ricardo Fraiman](http://www.cmat.edu.uy/cmat/docentes/rfraiman) | Universidad de la República (Uruguay) | Friday 24th, March 2017 | Some statistical models in ecology: home range, core areas and more |
 
 ## Location
 
